@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "code": "01",
+      "brand": "Motion",
+      "variants": [
+        {
+          "id": "01-ref",
+          "label": "Approved A",
+          "reference": true,
+          "width": 1024,
+          "height": 1536,
+          "image": "media/01-ref.png",
+          "source": "media/01-ref.png"
+        },
+        {
+          "id": "01-new",
+          "label": "Card 1",
+          "reference": false,
+          "width": 1024,
+          "height": 1536,
+          "video": "media/01-new.mp4",
+          "poster": "media/01-new.png",
+          "source": "media/01-new.png"
+        }
+      ]
+    },
+    {
+      "code": "02",
+      "brand": "Motion",
+      "variants": [
+        {
+          "id": "02-ref",
+          "label": "Approved B",
+          "reference": true,
+          "width": 1024,
+          "height": 1536,
+          "image": "media/02-ref.png",
+          "source": "media/02-ref.png"
+        },
+        {
+          "id": "02-new",
+          "label": "Card 2",
+          "reference": false,
+          "width": 1024,
+          "height": 1536,
+          "video": "media/02-new.mp4",
+          "poster": "media/02-new.png",
+          "source": "media/02-new.png"
+        }
+      ]
+    },
+    {
+      "code": "03",
+      "brand": "Motion",
+      "variants": [
+        {
+          "id": "03-ref",
+          "label": "Approved C",
+          "reference": true,
+          "width": 1024,
+          "height": 1536,
+          "image": "media/03-ref.png",
+          "source": "media/03-ref.png"
+        },
+        {
+          "id": "03-new",
+          "label": "Card 3",
+          "reference": false,
+          "width": 1024,
+          "height": 1536,
+          "video": "media/03-new.mp4",
+          "poster": "media/03-new.png",
+          "source": "media/03-new.png"
+        }
+      ]
+    },
+    {
+      "code": "04",
+      "brand": "Motion",
+      "variants": [
+        {
+          "id": "04-ref",
+          "label": "Style reference",
+          "reference": true,
+          "width": 1024,
+          "height": 1536,
+          "image": "media/04-ref.png",
+          "source": "media/04-ref.png"
+        },
+        {
+          "id": "04-new",
+          "label": "Card 4",
+          "reference": false,
+          "width": 1024,
+          "height": 1536,
+          "video": "media/04-new.mp4",
+          "poster": "media/04-new.png",
+          "source": "media/04-new.png"
+        }
+      ]
+    },
+    {
+      "code": "05",
+      "brand": "Layout",
+      "variants": [
+        {
+          "id": "05-ref",
+          "label": "Previous layout",
+          "reference": true,
+          "width": 1440,
+          "height": 1013,
+          "image": "media/05-ref.png",
+          "source": "media/05-ref.png"
+        },
+        {
+          "id": "05-new",
+          "label": "Four + four",
+          "reference": false,
+          "width": 1440,
+          "height": 1000,
+          "video": "media/05-new.mp4",
+          "poster": "media/05-new.png",
+          "source": "media/05-new.png"
+        }
+      ]
+    }
+  ]
+}

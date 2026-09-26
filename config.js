@@ -1,0 +1,1 @@
+const CONFIG={"id": "ventura-qc-20260926-07", "title": "Ventura \u00b7 Blue / orange folds", "store": "https://textdb.dev/api/data/qc-8fa2248aca8febfbae23dee5"};
