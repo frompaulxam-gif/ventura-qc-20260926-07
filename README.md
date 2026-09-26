@@ -19,3 +19,5 @@ Handover update: removed arrow/circle/connector illustration. Replaced with a pl
 Admin update: three horizontal progress bars organise Enquiries, Bookings and Follow-ups, with Sorting / Ready status changes. Original Ventura content; motion reference supplied by Paul from trygtm.com. The approved booking line graph is retained.
 
 Fourth example update: rising columns now illustrate three setup stages — One task, Your workflow, More support. Stage numbers are sequence labels, not performance claims. Original Ventura copy; motion reference supplied by Paul from trygtm.com.
+
+Enquiry update: staggered enquiry rows cycle a highlight and reveal their next step. Website / Phone / Email enquiries use original Ventura copy. Motion reference supplied by Paul from trygtm.com; no client names, domains or white-label claims copied.
