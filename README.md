@@ -13,3 +13,5 @@ Open `cards/` for the interactive desktop layout and `studies/` for full artwork
 
 Artwork files: `media/01-new.png` through `media/04-new.png`.
 Fourth image generated with built-in ImageGen. Full prompt: [prompts.md](prompts.md).
+
+Handover update: removed arrow/circle/connector illustration. Replaced with a plain task summary and quiet status changes.
