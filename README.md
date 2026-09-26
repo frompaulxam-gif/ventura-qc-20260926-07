@@ -15,3 +15,5 @@ Artwork files: `media/01-new.png` through `media/04-new.png`.
 Fourth image generated with built-in ImageGen. Full prompt: [prompts.md](prompts.md).
 
 Handover update: removed arrow/circle/connector illustration. Replaced with a plain task summary and quiet status changes.
+
+Admin update: three horizontal progress bars organise Enquiries, Bookings and Follow-ups, with Sorting / Ready status changes. Original Ventura content; motion reference supplied by Paul from trygtm.com. The approved booking line graph is retained.
