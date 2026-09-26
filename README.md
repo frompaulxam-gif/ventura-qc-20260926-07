@@ -17,3 +17,5 @@ Fourth image generated with built-in ImageGen. Full prompt: [prompts.md](prompts
 Handover update: removed arrow/circle/connector illustration. Replaced with a plain task summary and quiet status changes.
 
 Admin update: three horizontal progress bars organise Enquiries, Bookings and Follow-ups, with Sorting / Ready status changes. Original Ventura content; motion reference supplied by Paul from trygtm.com. The approved booking line graph is retained.
+
+Fourth example update: rising columns now illustrate three setup stages — One task, Your workflow, More support. Stage numbers are sequence labels, not performance claims. Original Ventura copy; motion reference supplied by Paul from trygtm.com.
